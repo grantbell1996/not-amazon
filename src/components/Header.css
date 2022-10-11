@@ -1,0 +1,19 @@
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(33, 35, 54);
+    position: sticky;
+    top: 0%;
+    z-index: 100;
+}
+
+.header_logo {
+    height: auto;
+    width: 10%;
+}
+
+.header_option {
+    color: rgb(249, 249, 249);
+    padding: 1%;
+}
