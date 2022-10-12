@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css";
-import notamazonLogo from "../images/notamazonLogo.png"
+import notamazonLogo from "../images/notamazonLogo.png";
 import SearchIcon from '@mui/icons-material/Search';
 import { ShoppingBasket } from "@mui/icons-material";
 

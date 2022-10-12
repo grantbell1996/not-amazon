@@ -1,0 +1,16 @@
+.home {
+    background-color: rgb(35, 49, 74);
+    height: 100%;
+}
+
+.home_container {
+
+}
+
+.home_image {
+width: 100%;
+z-index: -1;
+/* use margin bottom to let divs below this one to bleed over */
+/* margin-bottom:  -150px; */
+mask-image:  linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 0, 0, 1,));
+}
