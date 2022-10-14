@@ -8,7 +8,7 @@ function Home() {
     <>
     <div className='home'>
         <div className='home_container'>
-          <img className='home_image' src={amazonBanner}/>
+          <img className='home_image' src="https://m.media-amazon.com/images/I/71yDTwYjJAL._SX3000_.jpg"/>
           <div className='home_row'>
             <Product />
             <Product />
