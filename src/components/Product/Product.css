@@ -35,3 +35,7 @@
     border-color: darkgoldenrod;
     color: black;
 }
+
+.product_rating {
+    display: flex;
+}
